@@ -30,6 +30,7 @@ body {
 .carousel-container {
   background-color: gray;
   margin: 0 auto;
+  font-size: 24px;
 }
 .carousel-container p {
   font-weight: bold;
