@@ -26,3 +26,7 @@ body {
   text-align: center;
   color: gray;
 }
+.team-container {
+  background-color: gray;
+  align-items: center;
+}
