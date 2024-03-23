@@ -1,0 +1,25 @@
+.jumbotron {
+  background-image: url(/images/jumbotron.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.appreciation {
+  font-style: italic;
+  font-weight: lighter;
+  color: gray;
+}
+.writer {
+  font-style: italic;
+  color: gray;
+  text-align: right;
+  font-weight: bold;
+}
+.location {
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.reason-container p {
+  text-align: center;
+  color: gray;
+}
