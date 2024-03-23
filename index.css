@@ -28,5 +28,5 @@ body {
 }
 .team-container {
   background-color: gray;
-  align-items: center;
+  margin: 0 auto;
 }
