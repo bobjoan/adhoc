@@ -27,7 +27,13 @@ body {
   text-align: center;
   color: gray;
 }
-.team-container {
+.carousel-container {
   background-color: gray;
   margin: 0 auto;
+}
+.carousel-container p {
+  font-weight: bold;
+}
+.carousel-container span {
+  font-weight: lighter;
 }
